@@ -1,11 +1,22 @@
-<div align="center">
-<img src="https://api-xcoders.xyz/images/avatar.png" alt="YOGI" width="170" />
+<h1 align="center">Hi! 👋 I'm AlyaaXzy</h1>
+
+<p align="center">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
+</p>
+
+<p align="center">
+  <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/tK3WTRh/FB-IMG-1619342660961.jpg" alt="Velgrynd"></a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlyaaXzy&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/AlyaaXzy?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+</p>
 
 ## Multi Device
 </div>
 
 <p align="center">
-  <a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/Author-Farhannn-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/AlyaaXzy"><img title="Author" src="https://img.shields.io/badge/Author-Farhannn-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 # Settings
